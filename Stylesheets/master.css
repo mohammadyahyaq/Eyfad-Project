@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  font-family: 'Cairo', sans-serif;
+  direction: rtl;
+  font-size: 1.5rem;
+}
+
+#home {
+  text-align: right;
+  height: 100%;
+  font-size: 1.5rem;
+}
+
+.colored-section {
+  background-color: #35d0ba;
+  color: #fff;
+}
+
+.container {
+  padding: 7% 15%;
+  height: auto;
+}
+
+p {
+  position: relative;
+  left: 30rem;
+  text-align: right;
+  font-weight: 700;
+  line-height: 5rem;
+  width: 290%;
+  font-size: 2rem;
+}
+
+.btn-outline-info {
+  font-size: 1.75rem;
+
+  width: 25rem;
+  height: 5rem;
+
+  margin: 2rem;
+
+  background-color: #fff;
+  border-radius: 3rem;
+}
+
+.services {
+  padding-top: 8rem;
+
+  position: relative;
+  right: 13rem;
+}
+
+@media (max-width: 1080px) {
+  p {
+    width: 100%;
+    text-align: center;
+    position: static;
+  }
+  .btn-outline-info {
+    text-align: center;
+    position: static;
+  }
+
+  .services {
+    position: static;
+  }
+}
