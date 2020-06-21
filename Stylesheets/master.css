@@ -5,6 +5,8 @@ body {
   font-size: 1.5rem;
 }
 
+/* Home Section */
+
 #home {
   text-align: right;
   height: 100%;
@@ -16,9 +18,8 @@ body {
   color: #fff;
 }
 
-.container {
+.container-padding {
   padding: 7% 15%;
-  height: auto;
 }
 
 p {
@@ -64,4 +65,47 @@ p {
   .services {
     position: static;
   }
+}
+
+/* About Us Section */
+#about-us {
+  text-align: center;
+  height: 100%;
+  font-size: 1.5rem;
+}
+
+.data-logo {
+  width: 10rem;
+  padding-bottom: 4rem;
+}
+
+.about-us-text {
+  text-align: center;
+  width: 50rem;
+  position: static;
+}
+
+/* Contact Us */
+.contact-us-color {
+  text-align: center;
+  height: 100%;
+  font-size: 1.5rem;
+  background-color: #58b4ae;
+}
+
+.contact-text {
+  font-weight: 400;
+  text-align: center;
+  color: #fff;
+  display: inline;
+  position: static;
+}
+
+.icons {
+  padding: 1.5rem;
+  color: #dddddd;
+}
+
+.icons:hover {
+  color: #fff;
 }
