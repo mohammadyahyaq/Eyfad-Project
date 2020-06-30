@@ -3,8 +3,9 @@
 
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>eyfad Arabic text recognizer</title>
-
+<link rel="icon" href="eyfadLogo.png">
   <!--Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
   <!-- Bootstrap -->
@@ -20,19 +21,74 @@
   <!-- Custom Stylesheets link tags -->
   <link rel="stylesheet" href="Stylesheets/master.css">
 
+
+<!-- team -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <style type ="text/css">
+  
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-image: linear-gradient(to top, #19fcb8 0%, #35d0ba 100%);
+  position: static;
+  
+}
+
+
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-image: linear-gradient(to top, #19fcb8 0%, #35d0ba 100%);
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+
+.container {
+    padding: 80px 120px;
+  }
+  .person {
+    border: 10px solid transparent;
+    margin-bottom: 25px;
+    position: static;
+    opacity: 0.7;
+  }
+  .person:hover {
+    background-image: linear-gradient(to top, #19fcb8 0%, #35d0ba 100%);
+border-radius: 9rem; 
+ }
+  .selector-for-some-widget {
+  box-sizing: content-box;
+}
+  </style>
 </head>
 
 <body>
-
+    
   <section id="#home" class="colored-section">
 
     <!-- navigation bar -->
     <nav class="navbar navbar-expand-sm navbar-dark">
-      <a class="navbar-brand" href="#">شعار الموقع</a>
+      <a class="navbar-brand" href="#"><img src="eyfadLogo.png" alt="logo" height="150" width="150" /> </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div style="justify-content: flex-end;" class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
             <a class="nav-link" href="#home">الرئيسية</a>
@@ -62,15 +118,117 @@
       </div>
     </div>
 
+    
   </section>
 
-  <section id="#about-us" class="container-padding">
+
+  <section id="about-us" class="container-padding">
     <div align="center">
-      <img src="Images/SaudidataSIGLogo.png" alt="The picture isn't downloaded properly" class="data-logo">
+      <a href=" http://data.org.sa/"> <img src="Images/SaudidataSIGLogo.png" alt="The picture isn't downloaded properly" class="data-logo"></a>
       <p class="about-us-text">
         مجموعة الاهتمام بالبيانات هي إحدى مجموعات الاهتمام التي تشرف عليها جمعية الحاسبات السعودية وتتكون من عدد من أعضاء الجمعية الذين يقومون بأنشطة تتعلق بمجال علم البيانات.
       </p>
-    </div>
+      </div> 
+        
+    <div  class="about-section">
+        <h1>من نحن</h1>
+        <p>
+          نحن مجموعة من المتدربين التابعين للبرنامج التدريبي الصيفي 2020 الخاص بمجموعة الاهتمام بعلم البيانات.      </p>
+
+        </p>
+        
+      </div>
+      <div class="container text-center">
+        <h3>المطورين المشاركين:</h3>
+       
+        <br>
+        <div class="row">
+          <div class="col-sm-4">
+            <p class="text-center" ><strong> فاطمة العقيل </strong></p><br>
+            <a href="#demo" data-toggle="collapse">
+              <img src="user.png" class="img-circle person" alt="Fatima" width="250" height="255">
+            </a>
+            <div id="demo" class="collapse">
+              <h3>Fatima Alogayyel</h3>
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Trainee</p>
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Information technology specialist</p>
+              <p><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=fatmaalogayyel.300@gmail.com"><button class="button">Contact </button></a></p>            </div>
+            </div>
+            
+         
+          <div class="col-sm-4">
+            <p class="text-center"><strong>منى الدباس </strong></p><br>
+            <a href="#demo2" data-toggle="collapse">
+              <img src="user.png" class="img-circle person" alt="Random Name" width="250" height="255">
+            </a>
+            <div id="demo2" class="collapse">
+              <h3>Mona Aldebas</h3>
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Trainee</p>
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Information system specialist, interested in data science </p>
+              <p><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=monamdbas@gmail.com"><button class="button">Contact </button></a></p>
+            </div>
+          </div>
+          
+          
+          <div class="col-sm-4">
+            <p class="text-center"><strong>دارين اللهيبي</strong></p><br>
+            <a href="#demo3" data-toggle="collapse">
+              <img src="user.png" class="img-circle person" alt="Random Name" width="250" height="255">
+            </a>
+            <div id="demo3" class="collapse">
+              <h3>Dareen Alluhaybi</h3>
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Trainee</p>
+                    <p style="font-size: 20px;  position: static;
+                    text-align: center;">Computer science specialist  <br> </p>
+                   
+                    <p><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dareen.f.a@hotmail.com "><button class="button">Contact </button></a></p>            </div>
+          
+          </div>
+          
+        </div>
+        
+        <div class="row">
+        <div class="col-sm-4">
+          <p class="text-center"><strong>محمد الغفيلي  </strong></p><br>
+          <a href="#demo4" data-toggle="collapse">
+            <img src="user.png" class="img-circle person" alt="Random Name" width="250" height="255">
+          </a>
+          <div id="demo4" class="collapse">
+              <h3>Mohammad Alghafli</h3>
+             
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Trainee</p>
+              <p style="font-size: 20px;  position: static;
+              text-align: center;">Computer science specialist, interested in Software Development</p>
+              <p><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=m7md2012g@gmail.com"><button class="button">Contact </button></a></p>
+          </div>
+        </div>
+        </div>
+      </div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </section>
 
   <section id="#contact-us" class="contact-us-color container-padding">
@@ -80,10 +238,10 @@
           <p class="contact-text">اتصل بنا</p>
         </div>
       </div>
-      <div class="row">
+      <div id="contact-us" class="row">
         <div class="col-12">
           <a href="saudidata2030@gmail.com"><i class="fas fa-envelope-open-text icons"></i></a>
-          <a href="https://twitter.com/saudidata2030?lang=en"><i class="fab fa-twitter icons"></i></a>
+          <a href="https://twitter.com/Eyfad3"><i class="fab fa-twitter icons"></i></a>
           <a href="https://sa.linkedin.com/in/saudidata2030"><i class="fab fa-linkedin icons"></i></a>
         </div>
       </div>
