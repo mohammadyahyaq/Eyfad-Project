@@ -1,0 +1,125 @@
+/* start about us */
+
+.font{
+font-family:Adobe Arabic;
+font-size:11pt;
+}
+
+
+ #hh1{
+  font-family:Adobe Arabic;
+   color:#573c4d;
+
+
+
+   margin-left:7.5in;
+ }
+
+   #hh2{
+   color:#573c4d;
+   }
+
+.about-us {
+  padding-right:9in;
+  color:#573c4d;
+  font-size:40pt;
+}
+
+.men-runwa{
+margin-left:10in;
+color:#f18c8e;
+}
+
+.discription-about-us{
+color:#c5b6ba;
+font-size:10pt;
+text-align:right;
+}
+
+/* end about us */
+/* start product */
+#hh3{
+font-size:70pt;
+color:#c5b6ba;
+margin-right:7.5in;
+padding-top:4.5in;
+}
+#pp1{
+font-size:17pt;
+color:#f18c8e;
+}
+
+#pp2{
+font-size:17pt;
+color:#573c4d;
+}
+.ass{
+ color:#573c4d;
+}
+#pp3{
+margin-left:1.5in;
+font-size:25pt;
+color:#573c4d;
+}
+.margenn-below-book{
+text-indent:10%;
+}
+
+.hh4{
+color:#f18c8e;
+
+}
+
+/* end product */
+/* start fotter */
+  .social_media_icon :hover  {
+ 	width: 20px;
+	height: 20px;
+  background-color: #FFF;
+	border-radius: 100%;
+	padding: 3px;
+
+ }
+ .social_media{
+ 	margin-left: 15px;
+ 	margin-bottom: 30px;
+
+}
+
+
+.tial{
+font-family: 'Droid Arabic Naskh', serif;
+
+	font-size: 10pt;
+	line-height: 2;
+ 	list-style: none;
+	padding:10px  ;
+	color: #FFFFFF
+}
+
+.a_tial
+{
+	text-decoration: none;
+	color: #FFF;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #573c4d;
+   color: white;
+   text-align: center;
+}
+/* end fotter */
+/* sumarey*/
+#sum{
+font-size:50pt;
+color:#c5b6ba;
+margin-right:7.5in;
+padding-top:4.5in;
+}
+#sum1{
+font-size:17pt;
+color:#f18c8e;
+}

@@ -1,0 +1,44 @@
+These are some of the tools we used to manipulate the data on the dataset here is the explanation for each one of them:
+
+1- ManualClassification:
+	brief description: this program can be used if you have multiple images and you want to add them in their folder inside the dataset with the specific naming format (faster than doing it manually)
+	how to use it:
+		1- you should add the images you want to add it on the dataset on folder "list_of_images"
+		2- add the dataset in this folder next to the program
+		3- run the program enter the user id (it will be used for naming the images)
+		4- the program will show the image and then you should write it in the command line
+		5- if the word has spelling mistake or it's not on the words folder you could enter "0" to discard that image and it will be saved on "misspelled and repeated" folder
+		6- you could add those images which doesn't have a folder manually after finishing all the images
+	language and libraries: python, numpy, opencv
+
+2- Make_Directories:
+	brief description: this program for generated the folders for the dataset according to the selected words for the dataset (it uses the old format of the dataset we have changed it later on, so we don't need this program any more.
+	how to use it: just run the program and it will genrate the dataset folders automatically
+	language and libraries: python
+	
+3- GenerateSW:
+	brief descreption: this program will be used after you adding a new folder manually this program will genrate the "selected words.txt" with adding the new folder name
+	how to use it: just run the program and it will generate the file automatically
+	language and library: python
+	
+4- count_words:
+	brief description: this program will give you the number of images on the dataset, number of folders, and number of the writers
+	how to use it:
+		1- add the dataset on this folder
+		2- run the program
+		
+5- ConverterProgram
+	brief description:
+		--------------------------------------------------------------------
+		In this program we used the following tool to cut the A4 images
+			https://github.com/ValYouW/ml-ocr-tool
+		You could see the following tutorial to understand how to use it
+			https://www.youtube.com/watch?v=7uc05vyjVuw&t=120s
+		--------------------------------------------------------------------
+		This program simply convert the output of the previous tool to actual images with the specifying specific naming format for each word
+	how to use it:
+		1- you should export the output for the tool we talked about in .txt file
+		2- but that file (one or more file) inside the folder "template_images"
+		3- run the program
+		4- it will be exported on "list_of_images" folder
+	language or libraries: Python, OpenCV

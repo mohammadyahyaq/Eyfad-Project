@@ -1,0 +1,1 @@
+In this program, we going to cut handwritten A4 image, that follows the guidlines specified for each image, into image for each word.

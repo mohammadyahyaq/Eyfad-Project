@@ -1,0 +1,4 @@
+Here are the other programs we used during the project:
+
+1- adding_white_space_in_the_image: this program is adding padding for the images extracted from the tool we used from github
+2- Resolution_of_the_Image_2: this program change the rosulotion of the image to 300dpi (pixel/inche)

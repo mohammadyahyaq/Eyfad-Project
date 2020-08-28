@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<title>إيفاد</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="eyfadLogo.png">
+
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.0/css/mdb.min.css" rel="stylesheet">
+
+
+<style>
+body {
+    background-color: #35d0ba;
+  text-align: center;
+  color:#fff;
+}
+
+* { color:#fff; text-decoration: none;}
+
+</style>
+</head>
+	<body id="page-top" class="politics_version">
+
+   
+	  <script>
+		  var TxtType = function(el, toRotate, period) {
+        this.toRotate = toRotate;
+        this.el = el;
+        this.loopNum = 0;
+        this.period = parseInt(period, 10) || 2000;
+        this.txt = '';
+        this.tick();
+        this.isDeleting = false;
+    };
+
+    TxtType.prototype.tick = function() {
+        var i = this.loopNum % this.toRotate.length;
+        var fullTxt = this.toRotate[i];
+
+        if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+        } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+
+        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+        var that = this;
+        var delta = 200 - Math.random() * 100;
+
+        if (this.isDeleting) { delta /= 2; }
+
+        if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+        } else if (this.isDeleting && this.txt === '') {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+        }
+
+        setTimeout(function() {
+        that.tick();
+        }, delta);
+    };
+
+    window.onload = function() {
+        var elements = document.getElementsByClassName('typewrite');
+        for (var i=0; i<elements.length; i++) {
+            var toRotate = elements[i].getAttribute('data-type');
+            var period = elements[i].getAttribute('data-period');
+            if (toRotate) {
+              new TxtType(elements[i], JSON.parse(toRotate), period);
+            }
+        }
+        // INJECT CSS
+        var css = document.createElement("style");
+        css.type = "text/css";
+        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
+        document.body.appendChild(css);
+    };
+	  </script>
+
+<section id="home"  style="background: url('images/header.png')">
+    <nav  style="justify-content: left; "class="navbar navbar-expand-sm navbar-dark">
+
+        <a ><img src="eyfadLogo.png" alt="logo" height="150" width="150" /> </a>
+          </nav>
+
+<h1>
+  <a style="color:#fff; text-decoration: none; font-size:50px;"href="" class="typewrite" data-period="2000" data-type='[ "مرحباً بكم في منصة إيفاد", "ساهم معنا في إثراء المحتوى العربي", "كن أوائل المشاركين في المبادرة", "سجل معنا" ]'>
+    <span class="wrap"></span>
+  </a>
+</h1>
+		
+		<main style="display: flex; justify-content: flex-start; padding-left:40px; margin-top: 300px;">
+	
+        <img src="robotW.png" class="animated bounce infinite" alt="Eyfad Logo" id="animated-img1" width="150" height="150">
+       
+	  </main>
+	  
+
+      <form  action="login.php" method="post" style="text-align:center; align-items:center;" class="login100-form validate-form">
+
+        <div style="padding-left:230px;padding-top:20px;" class="container-login100-form-btn">
+            <button style="  background-image: linear-gradient(to top, #19fcb8 0%, #35d0ba 100%);
+"class="login100-form-btn" type ="submit" name="submit" value ="Submit"  style="background-color:#90A4AE">  <!-- add name and type and value -->
+            تسجيل الدخول
+            </button>
+
+        </div>
+    </form>
+
+</section>
+
+	  
+
+
+	
+
+
+</body>
+</html>

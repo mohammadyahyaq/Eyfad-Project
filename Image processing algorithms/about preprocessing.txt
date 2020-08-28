@@ -1,0 +1,1 @@
+This program will be used to prepare the images to be fitched on the Machine Learning Model. I it will extract the images in fore different modes gray, thresh, close, and original image.

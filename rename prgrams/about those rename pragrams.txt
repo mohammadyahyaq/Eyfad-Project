@@ -1,0 +1,1 @@
+We have changed the naming format of the images on the dataset several times during the project. Therefore, we have made many programs that rename the current images on the dataset to the new format. In this folder we list all those programs.

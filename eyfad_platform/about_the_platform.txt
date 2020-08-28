@@ -1,0 +1,3 @@
+# about the website
+
+This is our website we build to allow the writers to upload their images.
