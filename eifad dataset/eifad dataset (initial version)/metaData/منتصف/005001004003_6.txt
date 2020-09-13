@@ -1,0 +1,6 @@
+Word: منتصف
+Volunteer Identifier: 005001004003
+Image Name: 005001004003_6.tiff
+Number of letters: 5
+Number of dots: 4
+Position of letters: 24-25-3-14-20

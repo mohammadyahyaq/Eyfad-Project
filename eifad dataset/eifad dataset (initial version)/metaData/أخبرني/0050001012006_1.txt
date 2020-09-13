@@ -1,0 +1,6 @@
+Word: أخبرني
+Volunteer Identifier: 2006
+Image Name: 0050001012006_1.tiff
+Number of letters: 6
+Number of dots: 5
+Position of letters: 1-7-2-10-25-28

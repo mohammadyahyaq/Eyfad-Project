@@ -1,0 +1,6 @@
+Word: في
+Volunteer Identifier: 005001002005
+Image Name: 005001002005_52.tiff
+Number of letters: 2
+Number of dots: 3
+Position of letters: 20-28

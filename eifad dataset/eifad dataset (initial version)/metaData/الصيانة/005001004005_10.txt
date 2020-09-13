@@ -1,0 +1,6 @@
+Word: الصيانة
+Volunteer Identifier: 005001004005
+Image Name: 005001004005_10.tiff
+Number of letters: 7
+Number of dots: 5
+Position of letters: 1-23-14-28-1-25

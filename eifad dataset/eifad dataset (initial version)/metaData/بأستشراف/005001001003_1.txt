@@ -1,0 +1,6 @@
+Word: بأستشراف
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_1.tiff
+Number of letters: 8
+Number of dots: 7
+Position of letters: 2-1-12-3-13-10-1-20

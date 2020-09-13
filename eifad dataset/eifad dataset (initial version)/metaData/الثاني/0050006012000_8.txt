@@ -1,0 +1,6 @@
+Word: الثاني
+Volunteer Identifier: 2000
+Image Name: 0050006012000_8.tiff
+Number of letters: 6
+Number of dots: 6
+Position of letters: 1-23-4-1-25-28

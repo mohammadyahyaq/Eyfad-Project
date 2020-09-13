@@ -1,0 +1,6 @@
+Word: دقيقة
+Volunteer Identifier: 005001002001
+Image Name: 005001002001_5.tiff
+Number of letters: 5
+Number of dots: 8
+Position of letters: 8-21-28-21

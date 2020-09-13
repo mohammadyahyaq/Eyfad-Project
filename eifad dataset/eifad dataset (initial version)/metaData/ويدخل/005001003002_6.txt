@@ -1,0 +1,6 @@
+Word: ويدخل
+Volunteer Identifier: 005001003002
+Image Name: 005001003002_6.tiff
+Number of letters: 5
+Number of dots: 3
+Position of letters: 27-28-8-7-23

@@ -1,0 +1,6 @@
+Word: استشراف
+Volunteer Identifier: 005001003002
+Image Name: 005001003002_5.tiff
+Number of letters: 7
+Number of dots: 6
+Position of letters: 1-12-3-13-10-1-20

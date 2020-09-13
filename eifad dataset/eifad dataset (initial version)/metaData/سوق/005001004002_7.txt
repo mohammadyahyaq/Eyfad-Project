@@ -1,0 +1,6 @@
+Word: سوق
+Volunteer Identifier: 005001004002
+Image Name: 005001004002_7.tiff
+Number of letters: 3
+Number of dots: 2
+Position of letters: 12-27-21

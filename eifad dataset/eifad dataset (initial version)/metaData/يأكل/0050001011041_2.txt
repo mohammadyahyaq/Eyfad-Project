@@ -1,0 +1,6 @@
+Word: يأكل
+Volunteer Identifier: 1041
+Image Name: 0050001011041_2.tiff
+Number of letters: 4
+Number of dots: 2
+Position of letters: 28-1-22-23

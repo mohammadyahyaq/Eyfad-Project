@@ -1,0 +1,6 @@
+Word: كبيرة
+Volunteer Identifier: 005001001004
+Image Name: 005001001004_3.tiff
+Number of letters: 5
+Number of dots: 5
+Position of letters: 22-2-28-10

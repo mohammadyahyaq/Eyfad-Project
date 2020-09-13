@@ -1,0 +1,6 @@
+Word: الاصطناعي
+Volunteer Identifier: 005001004005
+Image Name: 005001004005_23.tiff
+Number of letters: 9
+Number of dots: 3
+Position of letters: 1-23-1-14-16-25-1-18-28

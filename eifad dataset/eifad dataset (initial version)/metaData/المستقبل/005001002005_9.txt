@@ -1,0 +1,6 @@
+Word: المستقبل
+Volunteer Identifier: 005001002005
+Image Name: 005001002005_9.tiff
+Number of letters: 8
+Number of dots: 5
+Position of letters: 1-23-24-12-3-21-2-23

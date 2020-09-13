@@ -1,0 +1,6 @@
+Word: يمس
+Volunteer Identifier: 005001002005
+Image Name: 005001002005_4.tiff
+Number of letters: 3
+Number of dots: 2
+Position of letters: 28-24-12

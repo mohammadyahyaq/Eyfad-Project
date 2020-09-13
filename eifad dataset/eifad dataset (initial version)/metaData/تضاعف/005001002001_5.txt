@@ -1,0 +1,6 @@
+Word: تضاعف
+Volunteer Identifier: 005001002001
+Image Name: 005001002001_5.tiff
+Number of letters: 5
+Number of dots: 4
+Position of letters: 3-15-1-18-20

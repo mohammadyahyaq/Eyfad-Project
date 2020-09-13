@@ -1,0 +1,6 @@
+Word: شيء
+Volunteer Identifier: 1007
+Image Name: 0050004011007_1.tiff
+Number of letters: 3
+Number of dots: 5
+Position of letters: 13-28-1

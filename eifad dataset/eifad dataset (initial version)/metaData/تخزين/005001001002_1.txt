@@ -1,0 +1,6 @@
+Word: تخزين
+Volunteer Identifier: 005001001002
+Image Name: 005001001002_1.tiff
+Number of letters: 5
+Number of dots: 7
+Position of letters: 3-7-11-28-25

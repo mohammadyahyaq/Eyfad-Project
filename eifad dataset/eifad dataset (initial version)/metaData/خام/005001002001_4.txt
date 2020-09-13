@@ -1,0 +1,6 @@
+Word: خام
+Volunteer Identifier: 005001002001
+Image Name: 005001002001_4.tiff
+Number of letters: 3
+Number of dots: 1
+Position of letters: 7-1-24

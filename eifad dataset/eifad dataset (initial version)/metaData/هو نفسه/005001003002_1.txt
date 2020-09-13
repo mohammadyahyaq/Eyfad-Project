@@ -1,0 +1,6 @@
+Word: هو نفسه
+Volunteer Identifier: 005001003002
+Image Name: 005001003002_1.tiff
+Number of letters: 7
+Number of dots: 2
+Position of letters: 26-27-25-20-12-26

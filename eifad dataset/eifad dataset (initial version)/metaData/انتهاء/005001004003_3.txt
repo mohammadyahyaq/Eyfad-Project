@@ -1,0 +1,6 @@
+Word: انتهاء
+Volunteer Identifier: 005001004003
+Image Name: 005001004003_3.tiff
+Number of letters: 6
+Number of dots: 3
+Position of letters: 1-25-3-26-1-1

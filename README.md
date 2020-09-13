@@ -1,7 +1,21 @@
 # Eyfad-Project
 
-In this project, we tried to build an Arabic optical character recognition (OCR) platform. We called this platform Eyfad. To build this type of system, we need to collect a large amount of data of Arabic handwritten word images to train our machine learning model. Therefore, we also build Eyfad dataset which you could find it on this repository. We also build some algorithms for Segmenting, classifying, and renaming the images to enrich our dataset in more automated manner.
+Eyfad is a project created by the "Saudi Data Special Interest Group". The project is simply a platform that contains an Arabic Optical Character Recognition (OCR). To make this project, we have two stages:
 
-Project members: Dareen Alluhaybe, Fatima Aloggayyel, Mohammad Alghafli, Mona Aldebas
+	1- Building the dataset:
+		In this stage of the project, we need to collect images of Arabic handwritten text and add them to the dataset. To do this task, we made a platform to allow different writers from all the world to upload their images into the dataset and we tried to automate the process of classifying the images and adding the meta-data for each image. Furthermore, we tried to design an algorithm to cut an image of the Arabic paragraph to an image for each word to speed up the process of building the dataset.
+	
+	2- Building the OCR model:
+		In this stage, we should start to build the machine learning model that uses our dataset.
+
+Project members:
+
+	Dareen Alluhaybe
+	
+	Fatima Aloggayyel
+	
+	Mohammad Alghafli
+	
+	Mona Aldebas
 	
 The project plan on Trello: https://trello.com/b/aMnyQwsm/arabic-handwritten-ocr

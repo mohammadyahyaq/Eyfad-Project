@@ -1,0 +1,6 @@
+Word: الشراء
+Volunteer Identifier: 005001002003
+Image Name: 005001002003_7.tiff
+Number of letters: 6
+Number of dots: 3
+Position of letters: 1-23-13-10-1-1

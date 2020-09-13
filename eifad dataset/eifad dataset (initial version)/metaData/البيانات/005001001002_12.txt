@@ -1,0 +1,6 @@
+Word: البيانات
+Volunteer Identifier: 005001001002
+Image Name: 005001001002_12.tiff
+Number of letters: 8
+Number of dots: 6
+Position of letters: 1-23-2-28-1-25-1-3

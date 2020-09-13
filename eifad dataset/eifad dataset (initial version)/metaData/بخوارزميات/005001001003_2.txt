@@ -1,0 +1,6 @@
+Word: بخوارزميات
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_2.tiff
+Number of letters: 10
+Number of dots: 7
+Position of letters: 2-7-27-1-10-11-24-28-1-3

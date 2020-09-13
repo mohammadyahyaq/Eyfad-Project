@@ -1,0 +1,6 @@
+Word: منتصف
+Volunteer Identifier: 005001002005
+Image Name: 005001002005_5.tiff
+Number of letters: 5
+Number of dots: 4
+Position of letters: 24-25-3-14-20

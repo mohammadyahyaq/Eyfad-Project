@@ -1,0 +1,6 @@
+Word: للإنسان
+Volunteer Identifier: 005001001005
+Image Name: 005001001005_1.tiff
+Number of letters: 7
+Number of dots: 2
+Position of letters: 23-23-1-25-12-1-25

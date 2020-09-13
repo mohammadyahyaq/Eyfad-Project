@@ -1,0 +1,6 @@
+Word: طويل
+Volunteer Identifier: 0050020012007
+Image Name: 0050020012007-3.tiff
+Number of letters: 4
+Number of dots: 2
+Position of letters: 16-27-28-23

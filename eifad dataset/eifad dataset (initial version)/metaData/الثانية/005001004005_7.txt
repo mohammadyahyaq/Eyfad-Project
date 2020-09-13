@@ -1,0 +1,6 @@
+Word: الثانية
+Volunteer Identifier: 005001004005
+Image Name: 005001004005_7.tiff
+Number of letters: 7
+Number of dots: 8
+Position of letters: 1-23-4-1-25-28

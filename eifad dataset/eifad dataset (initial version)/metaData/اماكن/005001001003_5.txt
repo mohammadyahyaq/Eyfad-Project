@@ -1,0 +1,6 @@
+Word: اماكن
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_5.tiff
+Number of letters: 5
+Number of dots: 1
+Position of letters: 1-24-1-22-25

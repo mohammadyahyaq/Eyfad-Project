@@ -1,0 +1,6 @@
+Word: وكمية
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_1.tiff
+Number of letters: 5
+Number of dots: 4
+Position of letters: 27-22-24-28

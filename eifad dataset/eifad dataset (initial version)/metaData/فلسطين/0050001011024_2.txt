@@ -1,0 +1,6 @@
+Word: فلسطين
+Volunteer Identifier: 1024
+Image Name: 0050001011024_2.tiff
+Number of letters: 6
+Number of dots: 4
+Position of letters: 20-23-12-16-28-25

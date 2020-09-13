@@ -1,0 +1,6 @@
+Word: هنا
+Volunteer Identifier: 005001001005
+Image Name: 005001001005_6.tiff
+Number of letters: 3
+Number of dots: 1
+Position of letters: 26-25-1

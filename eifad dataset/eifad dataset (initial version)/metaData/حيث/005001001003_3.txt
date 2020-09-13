@@ -1,0 +1,6 @@
+Word: حيث
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_3.tiff
+Number of letters: 3
+Number of dots: 5
+Position of letters: 6-28-4

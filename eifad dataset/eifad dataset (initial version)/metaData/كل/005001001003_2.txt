@@ -1,0 +1,6 @@
+Word: كل
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_2.tiff
+Number of letters: 2
+Number of dots: 0
+Position of letters: 22-23

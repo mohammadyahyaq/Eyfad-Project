@@ -1,0 +1,6 @@
+Word: هذا
+Volunteer Identifier: 005001001004
+Image Name: 005001001004_12.tiff
+Number of letters: 3
+Number of dots: 1
+Position of letters: 26-9-1

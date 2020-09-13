@@ -1,0 +1,6 @@
+Word: الكلمات
+Volunteer Identifier: 005001002002
+Image Name: 005001002002_7.tiff
+Number of letters: 7
+Number of dots: 2
+Position of letters: 1-23-22-23-24-1-3

@@ -1,0 +1,6 @@
+Word: حدثني
+Volunteer Identifier: 2000
+Image Name: 0050001012000_3.tiff
+Number of letters: 5
+Number of dots: 6
+Position of letters: 6-8-4-25-28

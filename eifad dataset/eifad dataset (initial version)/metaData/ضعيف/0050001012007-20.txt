@@ -1,0 +1,6 @@
+Word: ضعيف
+Volunteer Identifier: 1007
+Image Name: 0050001012007-20.tiff
+Number of letters: 4
+Number of dots: 4
+Position of letters: 15-18-28-20

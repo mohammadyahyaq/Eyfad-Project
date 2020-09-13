@@ -1,0 +1,6 @@
+Word: تلك
+Volunteer Identifier: 005001001001
+Image Name: 005001001001_2.tiff
+Number of letters: 3
+Number of dots: 2
+Position of letters: 3-23-22

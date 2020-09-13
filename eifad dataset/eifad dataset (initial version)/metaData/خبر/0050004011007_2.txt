@@ -1,0 +1,6 @@
+Word: خبر
+Volunteer Identifier: 1007
+Image Name: 0050004011007_2.tiff
+Number of letters: 3
+Number of dots: 2
+Position of letters: 7-2-10

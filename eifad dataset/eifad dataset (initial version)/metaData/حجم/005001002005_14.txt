@@ -1,0 +1,6 @@
+Word: حجم
+Volunteer Identifier: 005001002005
+Image Name: 005001002005_14.tiff
+Number of letters: 3
+Number of dots: 1
+Position of letters: 6-5-24

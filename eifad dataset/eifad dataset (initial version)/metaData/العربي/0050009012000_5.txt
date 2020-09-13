@@ -1,0 +1,6 @@
+Word: العربي
+Volunteer Identifier: 2000
+Image Name: 0050009012000_5.tiff
+Number of letters: 6
+Number of dots: 3
+Position of letters: 1-23-18-10-2-28

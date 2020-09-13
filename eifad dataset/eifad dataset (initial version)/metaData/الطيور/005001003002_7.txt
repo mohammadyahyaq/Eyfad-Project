@@ -1,0 +1,6 @@
+Word: الطيور
+Volunteer Identifier: 005001003002
+Image Name: 005001003002_7.tiff
+Number of letters: 6
+Number of dots: 2
+Position of letters: 1-23-16-28-27-10

@@ -1,0 +1,6 @@
+Word: هو
+Volunteer Identifier: 005001002001
+Image Name: 005001002001_7.tiff
+Number of letters: 2
+Number of dots: 0
+Position of letters: 26-27

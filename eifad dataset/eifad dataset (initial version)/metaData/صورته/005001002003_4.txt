@@ -1,0 +1,6 @@
+Word: صورته
+Volunteer Identifier: 005001002003
+Image Name: 005001002003_4.tiff
+Number of letters: 5
+Number of dots: 2
+Position of letters: 14-27-10-3-26

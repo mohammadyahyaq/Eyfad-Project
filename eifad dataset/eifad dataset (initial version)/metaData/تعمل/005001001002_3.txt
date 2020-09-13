@@ -1,0 +1,6 @@
+Word: تعمل
+Volunteer Identifier: 005001001002
+Image Name: 005001001002_3.tiff
+Number of letters: 4
+Number of dots: 2
+Position of letters: 3-18-24-23

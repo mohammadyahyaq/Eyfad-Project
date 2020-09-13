@@ -1,0 +1,6 @@
+Word: أمثلة
+Volunteer Identifier: 005001003002
+Image Name: 005001003002_10.tiff
+Number of letters: 5
+Number of dots: 5
+Position of letters: 1-24-4-23

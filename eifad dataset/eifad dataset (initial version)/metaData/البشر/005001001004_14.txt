@@ -1,0 +1,6 @@
+Word: البشر
+Volunteer Identifier: 005001001004
+Image Name: 005001001004_14.tiff
+Number of letters: 5
+Number of dots: 4
+Position of letters: 1-23-2-13-10

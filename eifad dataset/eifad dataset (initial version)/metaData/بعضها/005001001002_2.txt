@@ -1,0 +1,6 @@
+Word: بعضها
+Volunteer Identifier: 005001001002
+Image Name: 005001001002_2.tiff
+Number of letters: 5
+Number of dots: 2
+Position of letters: 2-18-15-26-1

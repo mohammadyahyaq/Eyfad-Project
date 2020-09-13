@@ -1,0 +1,6 @@
+Word: من
+Volunteer Identifier: 005001001002
+Image Name: 005001001002_16.tiff
+Number of letters: 2
+Number of dots: 1
+Position of letters: 24-25

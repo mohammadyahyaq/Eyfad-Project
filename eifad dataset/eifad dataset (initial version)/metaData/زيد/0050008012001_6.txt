@@ -1,0 +1,6 @@
+Word: زيد
+Volunteer Identifier: 2001
+Image Name: 0050008012001_6.tiff
+Number of letters: 3
+Number of dots: 3
+Position of letters: 11-28-8

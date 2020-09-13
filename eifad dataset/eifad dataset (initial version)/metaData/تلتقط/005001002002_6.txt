@@ -1,0 +1,6 @@
+Word: تلتقط
+Volunteer Identifier: 005001002002
+Image Name: 005001002002_6.tiff
+Number of letters: 5
+Number of dots: 6
+Position of letters: 3-23-3-21-16

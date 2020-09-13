@@ -1,0 +1,6 @@
+Word: الاشارة
+Volunteer Identifier: 005001004003
+Image Name: 005001004003_4.tiff
+Number of letters: 7
+Number of dots: 5
+Position of letters: 1-23-1-13-1-10

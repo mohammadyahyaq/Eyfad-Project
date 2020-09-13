@@ -1,0 +1,6 @@
+Word: ثانيا
+Volunteer Identifier: 1042
+Image Name: 0050001011042_4.tiff
+Number of letters: 5
+Number of dots: 6
+Position of letters: 4-1-25-28-1

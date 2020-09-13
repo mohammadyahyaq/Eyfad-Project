@@ -1,0 +1,6 @@
+Word: إن
+Volunteer Identifier: 005001003003
+Image Name: 005001003003_4.tiff
+Number of letters: 2
+Number of dots: 1
+Position of letters: 1-25

@@ -1,0 +1,6 @@
+Word: خام
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_2.tiff
+Number of letters: 3
+Number of dots: 1
+Position of letters: 7-1-24

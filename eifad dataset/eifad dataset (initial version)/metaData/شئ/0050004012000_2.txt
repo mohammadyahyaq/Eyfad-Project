@@ -1,0 +1,6 @@
+Word: شئ
+Volunteer Identifier: 2000
+Image Name: 0050004012000_2.tiff
+Number of letters: 2
+Number of dots: 3
+Position of letters: 13

@@ -1,0 +1,6 @@
+Word: غلط
+Volunteer Identifier: 1024
+Image Name: 0050008011024_3.tiff
+Number of letters: 3
+Number of dots: 1
+Position of letters: 19-23-16

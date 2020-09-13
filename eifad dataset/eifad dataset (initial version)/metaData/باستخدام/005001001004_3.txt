@@ -1,0 +1,6 @@
+Word: باستخدام
+Volunteer Identifier: 005001001004
+Image Name: 005001001004_3.tiff
+Number of letters: 8
+Number of dots: 4
+Position of letters: 2-1-12-3-7-8-1-24

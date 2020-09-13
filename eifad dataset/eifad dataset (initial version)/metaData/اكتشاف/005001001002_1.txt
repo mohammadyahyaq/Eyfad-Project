@@ -1,0 +1,6 @@
+Word: اكتشاف
+Volunteer Identifier: 005001001002
+Image Name: 005001001002_1.tiff
+Number of letters: 6
+Number of dots: 6
+Position of letters: 1-22-3-13-1-20

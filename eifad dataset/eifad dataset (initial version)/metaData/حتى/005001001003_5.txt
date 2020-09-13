@@ -1,0 +1,6 @@
+Word: حتى
+Volunteer Identifier: 005001001003
+Image Name: 005001001003_5.tiff
+Number of letters: 3
+Number of dots: 2
+Position of letters: 6-3

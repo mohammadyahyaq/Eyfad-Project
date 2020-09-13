@@ -1,0 +1,6 @@
+Word: استخدام
+Volunteer Identifier: 0050008012007
+Image Name: 0050008012007-8.tiff
+Number of letters: 7
+Number of dots: 3
+Position of letters: 1-12-3-7-8-1-24

@@ -1,0 +1,6 @@
+Word: التعرف
+Volunteer Identifier: 005001004003
+Image Name: 005001004003_15.tiff
+Number of letters: 6
+Number of dots: 3
+Position of letters: 1-23-3-18-10-20
